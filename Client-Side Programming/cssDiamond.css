@@ -1,0 +1,12 @@
+﻿#lsq {
+	margin-left: 150px;
+	width: 0;
+	border: 50px solid transparent;
+	border-bottom-color: #000
+}
+	
+#rsq {
+		width: 0;
+		border: 50px solid transparent;
+		border-top-color: #000
+}

@@ -1,0 +1,70 @@
+﻿body {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	background-color: #E2EDFF;
+	line-height: 125%;
+	padding: 15px;
+}
+
+p {
+	color: navy;
+	font-size: small;
+}
+
+#tagline {
+	font-family: Georgia, "Times New Roman" , serif;
+	font-style: italic;
+}
+
+h1 {
+	font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
+	font-size: x-large;
+	background-color: navy;
+	color: white;
+}
+
+li {
+	font-size: small;
+	
+}
+
+h2 {
+	color: blue;
+	font-size: medium;
+	font-weight: normal;
+	background-color: navy;
+	color: white;
+}
+
+em {
+	text-transform: uppercase;
+	
+}
+
+a {
+	font-weight: bold;
+}
+
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: gray;
+}
+
+a:hover {
+	text-decoration: none;
+	color: white;
+	background-color: navy;
+}
+
+a:active {
+	color:aqua;
+	background-color: navy;
+}
+
+.fun {
+	color: #399;
+	font-family: Georgia, "Times New Roman", serif;
+	letter-spacing: .05em;
+	}
